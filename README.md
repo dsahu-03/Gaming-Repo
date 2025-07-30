@@ -10,8 +10,8 @@ Two-player turn-based game
 Responsive and clean layout
 
 Screenshots:
-<img width="400" height="400" alt="pic png" src="https://github.com/user-attachments/assets/4549f3f4-76e7-4826-9ffc-981e91761c53" />
-<img width="400" height="400" alt="pic2 png" src="https://github.com/user-attachments/assets/35982fef-3caa-4bdb-902a-8e9fdfd30c4f" />
+<img width="450" height="450" alt="pic png" src="https://github.com/user-attachments/assets/4549f3f4-76e7-4826-9ffc-981e91761c53" />
+<img width="450" height="450" alt="pic2 png" src="https://github.com/user-attachments/assets/35982fef-3caa-4bdb-902a-8e9fdfd30c4f" />
 
 #Technologies Used
 HTML – Structure of the game
